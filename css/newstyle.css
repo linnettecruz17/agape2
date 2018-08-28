@@ -1,0 +1,9 @@
+.one{
+    border:solid;
+}
+#jback{
+    background-image: url("../images/volunteer.jpg");
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
